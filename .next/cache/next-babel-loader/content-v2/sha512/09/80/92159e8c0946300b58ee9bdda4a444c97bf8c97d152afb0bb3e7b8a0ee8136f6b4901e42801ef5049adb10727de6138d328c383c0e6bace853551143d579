@@ -1,0 +1,1 @@
+{"ast":null,"code":"exports.DB_PASSWORD = \"greeny321\";","map":{"version":3,"sources":["/home/aflah/Documents/React Trials/06-onwards-to-a-bigger-project-starting-project/config.env.js"],"names":["exports","DB_PASSWORD"],"mappings":"AAAAA,OAAO,CAACC,WAAR,GAAsB,WAAtB","sourcesContent":["exports.DB_PASSWORD = \"greeny321\";\n"]},"metadata":{},"sourceType":"script"}
